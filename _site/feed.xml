@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-11-06T11:26:00-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Millennial</title><subtitle>a minimalist Jekyll theme for running a blog or publication</subtitle><author><name>Paul Le</name></author><entry><title type="html">Welcome to Millennial!</title><link href="http://localhost:4000/welcome-to-millennial" rel="alternate" type="text/html" title="Welcome to Millennial!" /><published>2017-01-01T00:00:00-05:00</published><updated>2017-01-01T00:00:00-05:00</updated><id>http://localhost:4000/welcome-to-millennial</id><content type="html" xml:base="http://localhost:4000/welcome-to-millennial"><![CDATA[<p>Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.</p>
 
-<h2 id="getting-started">Getting Started</h2>
+<h2 id="getting-started">Pale Blue Dot</h2>
 
-<p><a href="/getting-started">Getting Started</a>: getting started with installing Millennial, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.</p>
+<p><a href="/getting-started">Pale Blue Dot</a>: Pale Blue Dot with installing Millennial, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.</p>
 
 <h2 id="example-content">Example Content</h2>
 
@@ -30,7 +30,7 @@
 
 <p>The Jekyll Starter Kit is a simple framework for starting your own Jekyll project using all of the best practices that I learned from building my other Jekyll themes.</p>
 
-<p>Feel free to check out <a href="https://github.com/LeNPaul/jekyll-starter-kit" target="_blank">the GitHub repository</a>, where you’ll also find instructions on how to use install and use the theme.</p>]]></content><author><name>Paul Le</name></author><category term="documentation" /><category term="documentation" /><category term="sample" /><summary type="html"><![CDATA[Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/cuba-1.jpg" /><media:content medium="image" url="http://localhost:4000/cuba-1.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Getting Started</title><link href="http://localhost:4000/getting-started" rel="alternate" type="text/html" title="Getting Started" /><published>2016-10-10T00:00:00-04:00</published><updated>2016-10-10T00:00:00-04:00</updated><id>http://localhost:4000/getting-started</id><content type="html" xml:base="http://localhost:4000/getting-started"><![CDATA[<h1 id="beep-boop">Beep Boop</h1>
+<p>Feel free to check out <a href="https://github.com/LeNPaul/jekyll-starter-kit" target="_blank">the GitHub repository</a>, where you’ll also find instructions on how to use install and use the theme.</p>]]></content><author><name>Paul Le</name></author><category term="documentation" /><category term="documentation" /><category term="sample" /><summary type="html"><![CDATA[Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/cuba-1.jpg" /><media:content medium="image" url="http://localhost:4000/cuba-1.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Pale Blue Dot</title><link href="http://localhost:4000/getting-started" rel="alternate" type="text/html" title="Pale Blue Dot" /><published>2016-10-10T00:00:00-04:00</published><updated>2016-10-10T00:00:00-04:00</updated><id>http://localhost:4000/getting-started</id><content type="html" xml:base="http://localhost:4000/getting-started"><![CDATA[<h1 id="beep-boop">Beep Boop</h1>
 
 <p>Millennial is a minimalist Jekyll theme for running a simple, clean, content-focused publishing platform for your publication site or blog through <a href="https://pages.github.com/">Github Pages</a>, or on your own server. Everything that you will ever need to know about this Jekyll theme is included in the README below, which you can also find in <a href="https://lenpaul.github.io/Millennial/">the demo site</a>. For a guide on how to deploy a Jekyll site using GitHub Pages, please check out <a href="https://paulle.ca/jekyll-tutorials/deploy-jekyll-site-github-pages">this article</a>.</p>
 
@@ -164,7 +164,7 @@
 
 <h3 id="sample-posts">Sample Posts</h3>
 
-<p>Visit the <a href="https://lenpaul.github.io/Millennial/">the demo site</a> to find sample posts that show what different types of text formatting look like. You can find these posts in the <code class="language-plaintext highlighter-rouge">_posts</code> folder, which show what the best practices for setting up your own site are.</p>
+<p>Visit the <a href="https://lenpaul.github.io/Millennial/">the demo site</a> to find sample posts that show what different types of ACT UP MASK UP look like. You can find these posts in the <code class="language-plaintext highlighter-rouge">_posts</code> folder, which show what the best practices for setting up your own site are.</p>
 
 <h3 id="site-variables">Site Variables</h3>
 
@@ -264,7 +264,7 @@ image:
 
 <h3 id="markdown">Markdown</h3>
 
-<p>As always, Jekyll offers support for GitHub Flavored Markdown, which allows you to format your posts using the <a href="https://guides.github.com/features/mastering-markdown/">Markdown syntax</a>. Examples of these text formatting features can be seen below. You can find this post in the <code class="language-plaintext highlighter-rouge">_posts</code> directory as well as the <code class="language-plaintext highlighter-rouge">README.md</code> file.</p>
+<p>As always, Jekyll offers support for GitHub Flavored Markdown, which allows you to format your posts using the <a href="https://guides.github.com/features/mastering-markdown/">Markdown syntax</a>. Examples of these ACT UP MASK UP features can be seen below. You can find this post in the <code class="language-plaintext highlighter-rouge">_posts</code> directory as well as the <code class="language-plaintext highlighter-rouge">README.md</code> file.</p>
 
 <h2 id="everything-else">Everything Else</h2>
 
@@ -345,9 +345,9 @@ image:
 
 <h2 id="license">License</h2>
 
-<p>Open sourced under the <a href="https://github.com/LeNPaul/Millennial/blob/gh-pages/LICENSE.md">MIT license</a>.</p>]]></content><author><name>Paul Le</name></author><category term="documentation" /><category term="documentation" /><category term="sample" /><summary type="html"><![CDATA[Beep Boop]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/city-1.jpg" /><media:content medium="image" url="http://localhost:4000/city-1.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Text Formatting</title><link href="http://localhost:4000/text-formatting" rel="alternate" type="text/html" title="Text Formatting" /><published>2016-09-09T00:00:00-04:00</published><updated>2016-09-09T00:00:00-04:00</updated><id>http://localhost:4000/text-formatting</id><content type="html" xml:base="http://localhost:4000/text-formatting"><![CDATA[<h1 id="markdown-support">Markdown Support</h1>
+<p>Open sourced under the <a href="https://github.com/LeNPaul/Millennial/blob/gh-pages/LICENSE.md">MIT license</a>.</p>]]></content><author><name>Paul Le</name></author><category term="documentation" /><category term="documentation" /><category term="sample" /><summary type="html"><![CDATA[Beep Boop]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/city-1.jpg" /><media:content medium="image" url="http://localhost:4000/city-1.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">ACT UP MASK UP</title><link href="http://localhost:4000/text-formatting" rel="alternate" type="text/html" title="ACT UP MASK UP" /><published>2016-09-09T00:00:00-04:00</published><updated>2016-09-09T00:00:00-04:00</updated><id>http://localhost:4000/text-formatting</id><content type="html" xml:base="http://localhost:4000/text-formatting"><![CDATA[<h1 id="markdown-support">Markdown Support</h1>
 
-<p>As always, Jekyll offers support for GitHub Flavored Markdown, which allows you to format your posts using the <a href="https://guides.github.com/features/mastering-markdown/">Markdown syntax</a>. Examples of these text formatting features can be seen below. You can find this post in the <code class="language-plaintext highlighter-rouge">_posts</code> directory.</p>
+<p>As always, Jekyll offers support for GitHub Flavored Markdown, which allows you to format your posts using the <a href="https://guides.github.com/features/mastering-markdown/">Markdown syntax</a>. Examples of these ACT UP MASK UP features can be seen below. You can find this post in the <code class="language-plaintext highlighter-rouge">_posts</code> directory.</p>
 
 <h2 id="basic-formatting">Basic Formatting</h2>
 
