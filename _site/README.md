@@ -110,7 +110,7 @@ To completely start from scratch, simply delete all the files in the `_posts`, `
 
 ### Sample Posts
 
-Visit the [the demo site](https://lenpaul.github.io/Millennial/) to find sample posts that show what different types of text formatting look like. You can find these posts in the `_posts` folder, which show what the best practices for setting up your own site are.
+Visit the [the demo site](https://lenpaul.github.io/Millennial/) to find sample posts that show what different types of ACT UP MASK UP look like. You can find these posts in the `_posts` folder, which show what the best practices for setting up your own site are.
 
 ### Site Variables
 
@@ -206,7 +206,7 @@ Millennial provides syntax highlighting through [fenced code blocks](https://hel
 
 ### Markdown
 
-As always, Jekyll offers support for GitHub Flavored Markdown, which allows you to format your posts using the [Markdown syntax](https://guides.github.com/features/mastering-markdown/). Examples of these text formatting features can be seen below. You can find this post in the `_posts` directory as well as the `README.md` file.
+As always, Jekyll offers support for GitHub Flavored Markdown, which allows you to format your posts using the [Markdown syntax](https://guides.github.com/features/mastering-markdown/). Examples of these ACT UP MASK UP features can be seen below. You can find this post in the `_posts` directory as well as the `README.md` file.
 
 ## Everything Else
 
