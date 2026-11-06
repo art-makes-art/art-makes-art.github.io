@@ -15,7 +15,7 @@ Artwork text description here.
 <!---->
 <!--## Example Content-->
 <!---->
-<!--[Text and Formatting]({{ site.github.url }}{% post_url 2016-09-09-text-formatting %})-->
+<!--[Text and Formatting]({{ site.github.url }}{% post_url 2016-09-09-ACT-UP-MASK-UP %})-->
 <!---->
 <!--## Questions?-->
 <!---->
