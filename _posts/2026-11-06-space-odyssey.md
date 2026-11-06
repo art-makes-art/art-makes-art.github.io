@@ -11,7 +11,7 @@ Artwork text description here.
 
 <!--## Getting Started-->
 <!---->
-<!--[Getting Started]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}): getting started with installing Millennial, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.-->
+<!--[Getting Started]({{ site.github.url }}{% post_url 2016-10-10-pale-blue-dot %}): getting started with installing Millennial, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.-->
 <!---->
 <!--## Example Content-->
 <!---->
@@ -27,7 +27,7 @@ Artwork text description here.
 <!---->
 <!--Lagrange is a minimalist Jekyll blog theme that I built from scratch. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog.-->
 <!---->
-<!--Feel free to check out <a href="https://lenpaul.github.io/Lagrange/" target="_blank">the demo</a>, where you’ll also find instructions on <a href="https://lenpaul.github.io/Lagrange/journal/getting-started.html">how to use install</a> and use the theme.-->
+<!--Feel free to check out <a href="https://lenpaul.github.io/Lagrange/" target="_blank">the demo</a>, where you’ll also find instructions on <a href="https://lenpaul.github.io/Lagrange/journal/pale-blue-dot.html">how to use install</a> and use the theme.-->
 <!---->
 <!--### Portfolio Jekyll Theme-->
 <!---->
