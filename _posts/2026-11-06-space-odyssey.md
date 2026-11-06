@@ -4,7 +4,7 @@ title: "Space Odyssey | 2024"
 author: "art estes"
 categories: portfolio
 tags: [portfolio,sample]
-image: cuba-1.jpg
+image: space-odyssey.jpg
 ---
 
 Artwork text description here.
