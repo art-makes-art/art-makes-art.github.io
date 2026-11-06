@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Welcome to Millennial!"
-author: "Paul Le"
-categories: documentation
-tags: [documentation,sample]
+title: "Space Odyssey | 2024"
+author: "art estes"
+categories: portfolio
+tags: [portfolio,sample]
 image: cuba-1.jpg
 ---
 
