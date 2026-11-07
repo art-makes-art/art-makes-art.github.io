@@ -9,9 +9,9 @@ image: space-odyssey.jpg
 
 Artwork text description here.
 
-<!--## Getting Started-->
+<!--## Pale Blue Dot-->
 <!---->
-<!--[Getting Started]({{ site.github.url }}{% post_url 2026-11-06-pale-blue-dot %}): getting started with installing Millennial, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.-->
+<!--[Pale Blue Dot]({{ site.github.url }}{% post_url 2026-11-06-pale-blue-dot %}): getting started with installing Millennial, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.-->
 <!---->
 <!--## Example Content-->
 <!---->
