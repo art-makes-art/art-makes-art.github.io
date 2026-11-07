@@ -11,11 +11,11 @@ Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide
 
 ## Pale Blue Dot
 
-[Pale Blue Dot]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}): Pale Blue Dot with installing Millennial, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+[Pale Blue Dot]({{ site.github.url }}{% post_url 2026-11-06-pale-blue-dot %}): Pale Blue Dot with installing Millennial, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
 
 ## Example Content
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2016-09-09-text-formatting %})
+[ACT UP MASK UP]({{ site.github.url }}{% post_url 2026-11-06-act-up-mask-up %})
 
 ## Questions?
 
@@ -27,7 +27,7 @@ This theme is completely free and open source software. You may use it however y
 
 Lagrange is a minimalist Jekyll blog theme that I built from scratch. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog.
 
-Feel free to check out <a href="https://lenpaul.github.io/Lagrange/" target="_blank">the demo</a>, where you’ll also find instructions on <a href="https://lenpaul.github.io/Lagrange/journal/getting-started.html">how to use install</a> and use the theme.
+Feel free to check out <a href="https://lenpaul.github.io/Lagrange/" target="_blank">the demo</a>, where you’ll also find instructions on <a href="https://lenpaul.github.io/Lagrange/journal/pale-blue-dot.html">how to use install</a> and use the theme.
 
 ### Portfolio Jekyll Theme
 
