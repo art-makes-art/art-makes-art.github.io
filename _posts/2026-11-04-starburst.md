@@ -49,7 +49,7 @@ Artwork text description here.
 <!---->
 <!--Blockquotes are useful for denoting quotes, or highlighting a large block of text. Single line blockquote:-->
 <!---->
-<!--> This quote will change your life.-->
+<!-->  .-->
 <!---->
 <!--Multi line blockquote with a cite reference:-->
 <!---->
