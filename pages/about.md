@@ -14,7 +14,7 @@ He is curious about identity, gender, disability, madness, queerness, sexuality,
  
 His artwork is characterized by bright colors and discrete boundaries becoming unsettled -- contrasts between fluidity and structure, movement and control. A former astrophysicist, Art's work tends to take on a scientific quality of precision, with extra care taken to strive for perfect imperfections, orderly disorder.
 
-He draws inspiration from queer elders, especially AIDS activists and artists; from oppressed people globally who continue to fight for their (our) collective liberation and survival by any means necessary; and from his friends, lovers, and everyone in between.
+He draws inspiration from queer elders, especially AIDS activists and artists; from oppressed people globally who continue to fight for their (our) collective survival and liberation from capitalism by any means necessary; and from his friends, lovers, and everyone in between.
 
-He is also a member of the Cincinnati Men’s Chorus.
+Art is also a member of the Cincinnati Men’s Chorus.
 
