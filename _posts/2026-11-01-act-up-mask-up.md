@@ -4,7 +4,7 @@ title: "ACT UP MASK UP | 2025"
 author: "art estes"
 categories: portfolio
 tags: [portfolio, sample]
-image: act-up-mask-up.jpg
+image: act-up-mask-up-01.jpg
 ---
 
 Artwork text description here.
