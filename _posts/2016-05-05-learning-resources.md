@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Learning Resources"
-author: "Paul Le"
-categories: resources
-tags: [documentation,sample]
+title: "Grape Soda on Jupiter"
+author: "art estes"
+categories: portfolio
+tags: [portfolio,sample]
 image: arctic-2.jpg
 ---
 
