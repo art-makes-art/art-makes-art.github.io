@@ -12,7 +12,7 @@ I am curious about identity, gender, disability, madness, queerness, sexuality, 
 <!--Raised (and currently based) in so-called Cincinnati, with his early young adult years spent sandwiched by the mountains, Art feels the importance of geography, place, and local history in his life and artwork. -->
 
  
-My artwork is characterized by bright colors and discrete boundaries becoming unsettled -- contrasts between fluidity and structure, movement and control. A former astrophysicist, my work tends to take on a scientific quality of precision, with extra care taken to strive for perfect imperfections, orderly disorder.
+My artwork is characterized by bright colors and discrete boundaries becoming unsettled -- contrasts between fluidity and structure, movement and control. As a former astrophysicist, my work tends to take on a scientific quality of precision, with extra care taken to strive for perfect imperfections, reminiscent of the orderly disorder of our cosmos.
 
 I draw inspiration from queer elders, especially AIDS activists and artists; from oppressed people globally who continue to fight for their (our) collective survival and liberation from capitalism by any means necessary; and from my own friends, lovers, and those in between.
 
