@@ -7,5 +7,6 @@ tags: [portfolio, sample]
 image: act-up-mask-up-01.png
 ---
 
-Artwork text description here.<br />
+Artwork text description here.\\
+<br/>
 
