@@ -7,5 +7,4 @@ tags: [portfolio, sample]
 image: palestine.jpg
 ---
 
-Artwork text description here.
-
+ [ ]" x [ ]" 

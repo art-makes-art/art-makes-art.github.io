@@ -7,5 +7,5 @@ tags: [portfolio,sample]
 image: pale-blue-dot-01.jpg
 ---
 
-Artwork text description here.
+### Acrylic on canvas | [ ]" x [ ]"
 

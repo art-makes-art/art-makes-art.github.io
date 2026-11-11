@@ -7,5 +7,5 @@ tags: [portfolio, sample]
 image: deconstructed-starburst.jpg
 ---
 
-Artwork text description here.
+### Acrylic on canvas | [ ]" x [ ]" and  [ ]" x [ ]" 
 

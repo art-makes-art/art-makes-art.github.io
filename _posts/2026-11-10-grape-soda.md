@@ -7,7 +7,7 @@ tags: [portfolio,sample]
 image: grape-soda.jpg
 ---
 
-Artwork text description here.
+### Acrylic on canvas | [ ]" x [ ]"
 
 
 
