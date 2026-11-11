@@ -5,7 +5,7 @@ permalink: /about
 ---
 
 
-I am an interdisciplinary artist, writer, and poet based in so-called Cincinnati. I am white, trans, queer, autistic, and disabled. My primary mediums include acrylic
+I am an interdisciplinary artist, writer, and poet based in so-called Cincinnati. I am white, trans, queer, autistic, and disabled. My primary medium is acrylic painting, though I also work in underglazed ceramics, embroidery, and collage.
 
 I am curious about identity, gender, disability, madness, queerness, sexuality, relationships, trauma, politics, history, liberation, transformation, survival, and the intertwining threads between and around all of these themes. My work reflects these curiosities.
 
