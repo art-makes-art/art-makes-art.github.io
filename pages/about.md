@@ -5,7 +5,7 @@ permalink: /about
 ---
 
 
-I am an interdisciplinary artist, writer, and poet based in so-called Cincinnati. I am white, trans, queer, autistic, and disabled. My primary medium is acrylic painting, though I also work in underglazed ceramics, embroidery, and collage.
+I am an interdisciplinary artist, writer, and poet based in so-called Cincinnati. I am white, trans, queer, autistic, and disabled. My primary medium is acrylic painting, though I also work in underglazed ceramics, embroidery, collage, and graphic design.
 
 I am curious about identity, gender, disability, madness, queerness, sexuality, relationships, trauma, politics, history, liberation, transformation, survival, and the intertwining threads between and around all of these themes. My work reflects these curiosities.
 
@@ -14,7 +14,7 @@ I am curious about identity, gender, disability, madness, queerness, sexuality, 
  
 My artwork is characterized by bright colors and discrete boundaries becoming unsettled -- contrasts between fluidity and structure, movement and control. A former astrophysicist, my work tends to take on a scientific quality of precision, with extra care taken to strive for perfect imperfections, orderly disorder.
 
-I draw inspiration from queer elders, especially AIDS activists and artists; from oppressed people globally who continue to fight for their (our) collective survival and liberation from capitalism by any means necessary; and from my friends, lovers, and everyone in between.
+I draw inspiration from queer elders, especially AIDS activists and artists; from oppressed people globally who continue to fight for their (our) collective survival and liberation from capitalism by any means necessary; and from my own friends, lovers, and those in between.
 
 I am also a member of the Cincinnati Men’s Chorus.
 
