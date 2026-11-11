@@ -7,4 +7,4 @@ tags: [portfolio, sample]
 image: palestine.jpg
 ---
 
- [ ]" x [ ]" 
+### Underglaze on ceramic | 4" x 4" x 8"
